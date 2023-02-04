@@ -31,7 +31,9 @@
     margin-top: 50px;
     font-size: 30px;
 }
-
+#clear:hover {
+    cursor: pointer;
+}
 #divide {
     border-radius: 50%;
     border: none;
@@ -41,6 +43,9 @@
     margin-left: 10px;
     margin-top: 50px;
     font-size: 30px;
+}
+#divide:hover {
+    cursor: pointer;
 }
 #multiply {
     border-radius: 50%;
@@ -52,6 +57,9 @@
     margin-top: 50px;
     font-size: 30px;
 }
+#multiply:hover {
+    cursor: pointer;
+}
 #delete {
     border-radius: 50%;
     border: none;
@@ -61,6 +69,9 @@
     margin-left: 10px;
     margin-top: 50px;
     font-size: 30px;
+}
+#delete:hover {
+    cursor: pointer;
 }
 #num-7 {
     border-radius: 50%;
@@ -73,6 +84,9 @@
     margin-top: 10px;
     font-size: 30px;
 }
+#num-7:hover {
+    cursor: pointer;
+}
 #num-8 {
     border-radius: 50%;
     border: none;
@@ -83,7 +97,10 @@
     margin-left: 10px;
     margin-top: 10px;
     font-size: 30px;
-}  
+} 
+#num-8:hover {
+    cursor: pointer;
+} 
 #num-9 {
     border-radius: 50%;
     border: none;
@@ -95,6 +112,9 @@
     margin-top: 10px;
     font-size: 30px;
 }  
+#num-9:hover {
+    cursor: pointer;
+}
 #substract {
     border-radius: 50%;
     border: none;
@@ -105,6 +125,9 @@
     margin-top: 10px;
     font-size: 30px;
 } 
+#substract:hover {
+    cursor: pointer;
+}
 #num-4 {
     border-radius: 50%;
     border: none;
@@ -116,6 +139,9 @@
     margin-top: 10px;
     font-size: 30px;
 } 
+#num-4:hover {
+    cursor: pointer;
+}
 #num-5 {
     border-radius: 50%;
     border: none;
@@ -126,7 +152,10 @@
     margin-left: 10px;
     margin-top: 10px;
     font-size: 30px;
-}  
+} 
+#num-5:hover {
+    cursor: pointer;
+} 
 #num-6 {
     border-radius: 50%;
     border: none;
@@ -138,6 +167,9 @@
     margin-top: 10px;
     font-size: 30px;
 } 
+#num-6:hover {
+    cursor: pointer;
+}
 #add {
     border-radius: 50%;
     border: none;
@@ -148,6 +180,9 @@
     margin-top: 10px;
     font-size: 30px;
 } 
+#add:hover {
+    cursor: pointer;
+}
 #num-1 {
     border-radius: 50%;
     border: none;
@@ -159,6 +194,9 @@
     margin-top: 10px;
     font-size: 30px;
 } 
+#num-1:hover {
+    cursor: pointer;
+}
 #num-2 {
     border-radius: 50%;
     border: none;
@@ -170,6 +208,9 @@
     margin-top: 10px;
     font-size: 30px;
 } 
+#num-2:hover {
+    cursor: pointer;
+}
 #num-3 {
     border-radius: 50%;
     border: none;
@@ -181,6 +222,9 @@
     margin-top: 10px;
     font-size: 30px;
 } 
+#num-3:hover {
+    cursor: pointer;
+}
 #equal {
     background-color: #0F3460;
     color: #ffffff;
@@ -195,6 +239,9 @@
     top: 500px;
     font-size: 30px;
 }
+#equal:hover {
+    cursor: pointer;
+}
 #num-0 {
     background-color: #4B72A1;
     color: #ffffff;
@@ -206,6 +253,9 @@
     margin-bottom: 8px;
     font-size: 30px;
 }
+#num-0 :hover {
+    cursor: pointer;
+}
 #point {
     border-radius: 50%;
     border: none;
@@ -216,4 +266,13 @@
     margin-left: 15px;
     margin-top: 10px;
     font-size: 30px;
+}
+#point:hover {
+    cursor: pointer;
+}
+#content {
+    font-size: 30px;
+    position: absolute;
+    top: 150px;
+    left: 200px;
 }
