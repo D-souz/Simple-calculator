@@ -29,6 +29,7 @@
     background-color: #D9D9D9;
     margin-left: 20px;
     margin-top: 50px;
+    font-size: 30px;
 }
 
 #divide {
@@ -39,6 +40,7 @@
     background-color: #D9D9D9;
     margin-left: 10px;
     margin-top: 50px;
+    font-size: 30px;
 }
 #multiply {
     border-radius: 50%;
@@ -48,6 +50,7 @@
     background-color: #D9D9D9;
     margin-left: 10px;
     margin-top: 50px;
+    font-size: 30px;
 }
 #delete {
     border-radius: 50%;
@@ -57,6 +60,7 @@
     background-color: #E94560;
     margin-left: 10px;
     margin-top: 50px;
+    font-size: 30px;
 }
 #num-7 {
     border-radius: 50%;
@@ -67,6 +71,7 @@
     color: #ffffff;
     margin-left: 20px;
     margin-top: 10px;
+    font-size: 30px;
 }
 #num-8 {
     border-radius: 50%;
@@ -77,6 +82,7 @@
     color: #ffffff;
     margin-left: 10px;
     margin-top: 10px;
+    font-size: 30px;
 }  
 #num-9 {
     border-radius: 50%;
@@ -87,6 +93,7 @@
     color: #ffffff;
     margin-left: 10px;
     margin-top: 10px;
+    font-size: 30px;
 }  
 #substract {
     border-radius: 50%;
@@ -96,6 +103,7 @@
     background-color: #D9D9D9;
     margin-left: 10px;
     margin-top: 10px;
+    font-size: 30px;
 } 
 #num-4 {
     border-radius: 50%;
@@ -106,6 +114,7 @@
     color: #ffffff;
     margin-left: 20px;
     margin-top: 10px;
+    font-size: 30px;
 } 
 #num-5 {
     border-radius: 50%;
@@ -116,6 +125,7 @@
     color: #ffffff;
     margin-left: 10px;
     margin-top: 10px;
+    font-size: 30px;
 }  
 #num-6 {
     border-radius: 50%;
@@ -126,6 +136,7 @@
     color: #ffffff;
     margin-left: 10px;
     margin-top: 10px;
+    font-size: 30px;
 } 
 #add {
     border-radius: 50%;
@@ -135,6 +146,7 @@
     background-color: #D9D9D9;
     margin-left: 10px;
     margin-top: 10px;
+    font-size: 30px;
 } 
 #num-1 {
     border-radius: 50%;
@@ -145,6 +157,7 @@
     color: #ffffff;
     margin-left: 20px;
     margin-top: 10px;
+    font-size: 30px;
 } 
 #num-2 {
     border-radius: 50%;
@@ -155,6 +168,7 @@
     color: #ffffff;
     margin-left: 10px;
     margin-top: 10px;
+    font-size: 30px;
 } 
 #num-3 {
     border-radius: 50%;
@@ -165,6 +179,7 @@
     color: #ffffff;
     margin-left: 10px;
     margin-top: 10px;
+    font-size: 30px;
 } 
 #equal {
     background-color: #0F3460;
@@ -178,6 +193,7 @@
     position: absolute;
     /* left: 263px; */
     top: 500px;
+    font-size: 30px;
 }
 #num-0 {
     background-color: #4B72A1;
@@ -187,7 +203,8 @@
     border: none;
     border-radius: 37px 37px 37px 37px;
     margin-left: 20px;
-    margin-top: 10px;
+    margin-bottom: 8px;
+    font-size: 30px;
 }
 #point {
     border-radius: 50%;
@@ -198,4 +215,5 @@
     color: #ffffff;
     margin-left: 15px;
     margin-top: 10px;
+    font-size: 30px;
 }
