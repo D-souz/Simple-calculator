@@ -275,4 +275,9 @@
     width: 301px;
     height: 100px;
     text-align: center;
+    background-color: #AFAFB3;
+    border: none;
+}
+#content:focus {
+    outline: none;
 }
