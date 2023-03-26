@@ -8,7 +8,7 @@
 #cal-body{
     background-color: #1A1A2E;
     width: 360px;
-    height: 640px;
+    height: 660px;
     border-radius: var(--b-radius);
     margin: 20px auto;
 }
@@ -179,7 +179,7 @@
     margin-left: 10px;
     margin-top: 10px;
     font-size: 30px;
-} 
+} #cal-body
 #add:hover {
     cursor: pointer;
 }
@@ -280,4 +280,12 @@
 }
 #content:focus {
     outline: none;
+}
+
+/* How it will appear on mobile */
+@media screen and (max-width: 480px){
+    #cal-body {
+        width: 350px;
+        height: 660px;
+    }
 }
